@@ -5,4 +5,17 @@
 
   <p> Bla. </p>
 
+  <example>
+    <p>
+      Bla.
+    </p>
+  </example>
+
+  <assemblage xml:id="assemblage-conversions">
+    <title>Facteurs de conversions</title>
+    <p>
+      Bla.
+    </p>
+  </assemblage>
+
 </section>
