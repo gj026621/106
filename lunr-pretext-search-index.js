@@ -7,7 +7,16 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.1",
   "title": "Conversions",
-  "body": " Conversions  Bla.  "
+  "body": " Conversions  Bla.   Bla.    Facteurs de conversions  Bla.   "
+},
+{
+  "id": "sec-section-conversions-3",
+  "level": "2",
+  "url": "sec-section-conversions.html#sec-section-conversions-3",
+  "type": "Example",
+  "number": "1.1.1",
+  "title": "",
+  "body": " Bla.  "
 }
 ]
 
