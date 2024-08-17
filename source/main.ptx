@@ -8,15 +8,16 @@
     <title>106</title>
     <subtitle>Compléments</subtitle>
 
-    <!-- Include frontmatter -->
+    <!--
     <xi:include href="./frontmatter.ptx" />
+     -->
 
     <!-- Include chapters -->
-    <xi:include href="./ch-chapter-conversions.ptx" />
+    <xi:include href="./ch-chapter-notation-et-unites.ptx" />
 
-
-    <!-- Include backmatter -->
+    <!--
     <xi:include href="./backmatter.ptx" />
+     -->
 
   </book>
 </pretext>
