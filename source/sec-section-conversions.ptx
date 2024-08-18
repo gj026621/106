@@ -3,12 +3,11 @@
 <section xml:id="sec-section-conversions" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Conversions</title>
 
-  <p> Bla. </p>
-
   <assemblage xml:id="assemblage-conversions">
-    <title>Facteurs de conversions</title>
+    <title>Facteurs de conversion</title>
     <p>
-      Bla.
+      Multiplier une quantité par 1 ne la modifie pas.
+      Cette astuce permet de faire apparaître l'unité souhaitée lors d'une conversion.
     </p>
   </assemblage>
 
@@ -20,6 +19,23 @@
     <answer>
       <p>
         <m>1{,}2\times 10^{16}\mu\text{m}</m>
+      </p>
+    </answer>
+    <solution>
+      <p>
+        <m>\vspace{5in}</m>
+      </p>
+    </solution>
+  </example>
+
+  <example>
+    <p>
+      Combien y a-t-il de pieds dans <m>5{,}4</m> verges?
+      Utilisez la notation décimale pour exprimer votre réponse.
+    </p>
+    <answer>
+      <p>
+        <m>16{,}2 \text{pieds}</m>
       </p>
     </answer>
     <solution>
