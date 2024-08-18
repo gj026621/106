@@ -7,7 +7,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.1",
   "title": "Conversions",
-  "body": " Conversions   Facteurs de conversion  Multiplier une quantité par 1 ne la modifie pas. Cette astuce permet de faire apparaître l'unité souhaitée lors d'une conversion.     Convertissez 12 gigamètres en micromètres. Utilisez la notation scientifique pour exprimer votre réponse.               Bla.      Combien y a-t-il de pieds dans verges? Utilisez la notation décimale pour exprimer votre réponse.          pieds    Bla.      Combien y a-t-il de micromètres dans milles? Utilisez la notation scientifique pour exprimer votre réponse. Arrondissez la mantisse à deux décimales.               Bla.    "
+  "body": " Conversions   Facteurs de conversion  Multiplier une quantité par 1 ne la modifie pas. Cette astuce permet de faire apparaître l'unité souhaitée lors d'une conversion.     Convertissez 12 gigamètres en micromètres. Utilisez la notation scientifique pour exprimer votre réponse.                          Combien y a-t-il de pieds dans verges? Utilisez la notation décimale pour exprimer votre réponse.          pieds    Bla.      Combien y a-t-il de micromètres dans milles? Utilisez la notation scientifique pour exprimer votre réponse. Arrondissez la mantisse à deux décimales.               Bla.    "
 },
 {
   "id": "ex-conversion-1",
@@ -16,7 +16,7 @@ var ptx_lunr_docs = [
   "type": "Exemple",
   "number": "1.1.1",
   "title": "",
-  "body": "  Convertissez 12 gigamètres en micromètres. Utilisez la notation scientifique pour exprimer votre réponse.               Bla.   "
+  "body": "  Convertissez 12 gigamètres en micromètres. Utilisez la notation scientifique pour exprimer votre réponse.                       "
 },
 {
   "id": "ex-conversion-2",
