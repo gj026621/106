@@ -12,10 +12,12 @@
   </assemblage>
 
   <example>
-    <p>
-      Convertissez 12 gigamètres en micromètres.
-      Utilisez la notation scientifique pour exprimer votre réponse.
-    </p>
+    <statement>
+      <p>
+        Convertissez 12 gigamètres en micromètres.
+        Utilisez la notation scientifique pour exprimer votre réponse.
+      </p>
+    </statement>
     <hint>
       <p>
         <me>1\;\text{Gm}=10^9\;\text{m}</me>
