@@ -35,11 +35,13 @@
     </solution>
   </example>
 
-  <example>
-    <p>
-      Combien y a-t-il de pieds dans <m>5{,}4</m> verges?
-      Utilisez la notation décimale pour exprimer votre réponse.
-    </p>
+  <example xml:id="ex-conversion-2">
+    <statement>
+      <p>
+        Combien y a-t-il de pieds dans <m>5{,}4</m> verges?
+        Utilisez la notation décimale pour exprimer votre réponse.
+      </p>
+    </statement>
     <hint>
       <p>
         <me>1\;\text{verge}=3\;\text{pieds}</me>
@@ -56,12 +58,14 @@
     </solution>
   </example>
 
-  <example>
-    <p>
-      Combien y a-t-il de micromètres dans <m>2{,}3</m> milles?
-      Utilisez la notation scientifique pour exprimer votre réponse.
-      Arrondissez la mantisse à deux décimales.
-    </p>
+  <example xml:id="ex-conversion-3">
+    <statement>
+      <p>
+        Combien y a-t-il de micromètres dans <m>2{,}3</m> milles?
+        Utilisez la notation scientifique pour exprimer votre réponse.
+        Arrondissez la mantisse à deux décimales.
+      </p>
+    </statement>
     <hint>
       <p>
         <me>1\;\text{mille}=1760\;\text{verges}</me>
