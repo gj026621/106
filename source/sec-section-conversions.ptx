@@ -15,7 +15,7 @@
     <p>
       Convertissez 12 gigamètres en micromètres.
       Utilisez la notation scientifique pour exprimer votre réponse.
-    </p><!--
+    </p>
     <hint>
       <p>
         <me>1\;\text{Gm}=10^9\;\text{m}</me>
@@ -28,16 +28,11 @@
       </p>
     </answer>
     <solution>
-      <p>
-        <me></me>
-        <me></me>
-        <me></me>
-        <me></me>
-        <me></me>
+      <p>Bla.
       </p>
-    </solution>-->
+    </solution>
   </example>
-<!--
+
   <example>
     <p>
       Combien y a-t-il de pieds dans <m>5{,}4</m> verges?
@@ -54,12 +49,7 @@
       </p>
     </answer>
     <solution>
-      <p>
-        <me></me>
-        <me></me>
-        <me></me>
-        <me></me>
-        <me></me>
+      <p>Bla.
       </p>
     </solution>
   </example>
@@ -82,19 +72,9 @@
       </p>
     </answer>
     <solution>
-      <p>
-        <me></me>
-        <me></me>
-        <me></me>
-        <me></me>
-        <me></me>
-        <me></me>
-        <me></me>
-        <me></me>
-        <me></me>
-        <me></me>
+      <p>Bla.
       </p>
     </solution>
   </example>
--->
+
 </section>
