@@ -14,11 +14,12 @@
 
   <example>
     <p>
-      Bla.
+      Convertissez 12 gigamètres en micromètres.
+      Utilisez la notation scientifique pour exprimer votre réponse.
     </p>
     <answer>
       <p>
-        Bla bla.
+        <m>1{,}2\times 10^{16}\mu\text{m}</m>
       </p>
     </answer>
     <solution>
