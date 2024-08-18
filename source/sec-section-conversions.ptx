@@ -64,4 +64,37 @@
     </solution>
   </example>
 
+  <example>
+    <p>
+      Combien y a-t-il de micromètres dans <m>2{,}3</m> milles?
+      Utilisez la notation scientifique pour exprimer votre réponse.
+      Arrondissez la mantisse à deux décimales.
+    </p>
+    <hint>
+      <p>
+        <me>1\;\text{mille}=1760\;\text{verges}</me>
+        <me>1\;\text{pied}=0{,}3048\;\text{m}</me>
+      </p>
+    </hint>
+    <answer>
+      <p>
+        <m>16{,}2</m> pieds
+      </p>
+    </answer>
+    <solution>
+      <p>
+        <me></me>
+        <me></me>
+        <me></me>
+        <me></me>
+        <me></me>
+        <me></me>
+        <me></me>
+        <me></me>
+        <me></me>
+        <me></me>
+      </p>
+    </solution>
+  </example>
+
 </section>
