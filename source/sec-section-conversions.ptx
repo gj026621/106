@@ -15,7 +15,7 @@
     <p>
       Convertissez 12 gigamètres en micromètres.
       Utilisez la notation scientifique pour exprimer votre réponse.
-    </p>
+    </p><!--
     <hint>
       <p>
         <me>1\;\text{Gm}=10^9\;\text{m}</me>
@@ -26,7 +26,7 @@
       <p>
         <m>1{,}2\times 10^{16}\;\mu\text{m}</m>
       </p>
-    </answer>
+    </answer>-->
     <solution>
       <p>
         <me></me>
