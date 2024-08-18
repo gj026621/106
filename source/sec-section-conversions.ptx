@@ -11,7 +11,7 @@
     </p>
   </assemblage>
 
-  <example>
+  <example xml:id="ex-conversion-1">
     <statement>
       <p>
         Convertissez 12 gigamètres en micromètres.
