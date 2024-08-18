@@ -16,16 +16,16 @@
     <p>
       Bla.
     </p>
+    <answer>
+      <p>
+        Bla bla.
+      </p>
+    </answer>
+    <solution>
+      <p>
+        Bla bla bla.
+      </p>
+    </solution>
   </example>
-  <answer>
-    <p>
-      Bla bla.
-    </p>
-  </answer>
-  <solution>
-    <p>
-      Bla bla bla.
-    </p>
-  </solution>
 
 </section>
