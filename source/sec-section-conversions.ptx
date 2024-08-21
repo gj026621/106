@@ -58,7 +58,12 @@
       </p>
     </answer>
     <solution>
-      <p>Bla.
+      <p>
+        <me>\textcolor{white}{}</me>
+        <me>\textcolor{white}{}</me>
+        <me>\textcolor{white}{}</me>
+        <me>\textcolor{white}{}</me>
+        <me>\textcolor{white}{}</me>
       </p>
     </solution>
   </example>
@@ -71,19 +76,24 @@
         Arrondissez la mantisse à deux décimales.
       </p>
     </statement>
+    <answer>
+      <p>
+        <m>3{,}70\times 10^9\;\mu\text{m}</m>
+      </p>
+    </answer>
     <hint>
       <p>
         <me>1\;\text{mille}=1760\;\text{verges}</me>
         <me>1\;\text{pied}=0{,}3048\;\text{m}</me>
       </p>
     </hint>
-    <answer>
-      <p>
-        <m>3{,}70\times 10^9\;\mu\text{m}</m>
-      </p>
-    </answer>
     <solution>
-      <p>Bla.
+      <p>
+        <me>\textcolor{white}{}</me>
+        <me>\textcolor{white}{}</me>
+        <me>\textcolor{white}{}</me>
+        <me>\textcolor{white}{}</me>
+        <me>\textcolor{white}{}</me>
       </p>
     </solution>
   </example>
